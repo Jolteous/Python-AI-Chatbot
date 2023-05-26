@@ -3,7 +3,7 @@ from chatterbot.trainers import ListTrainer
 from cleaner import clean_corpus
 
 
-CORPUS_FILE="/Users/jahaanshahsheikh/Desktop/Python Bot/chat.txt"
+CORPUS_FILE="/Users/jahaanshahsheikh/Documents/GitHub/Python-AI-Chatbot/chat.txt"
 
 chatbot = ChatBot("Chatpot")
 
